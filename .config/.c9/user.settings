@@ -62,6 +62,9 @@
     },
     "terminal": {
         "@fontsize": 13,
-        "@scrollback": 2000
+        "@scrollback": 2000,
+        "noclosequestion": {
+            "json()": "true"
+        }
     }
 }
