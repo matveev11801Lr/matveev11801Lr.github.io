@@ -108,3 +108,27 @@ http-server
 git init
 git status
 gitt add .
+git add .
+commit
+git config--global user.email "matveeev.3ch@mail.ru"
+git config --global user.email "matveev.3ch@mail.ru"
+git config --global user.name "matveev11801Lr"
+commit
+git commit
+git remote add origin https://github.com/matveev11801Lr/matveev11801Lr.github.io.git
+git push -u origin main
+git remote add origin https://github.com/matveev11801Lr/matveev11801Lr.github.io.git
+git push -u origin master
+git init
+qit init
+git init
+git status
+git add /
+git add .
+git commit
+git init
+git status
+git add/
+git add.
+git init
+git status
