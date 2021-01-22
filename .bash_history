@@ -132,3 +132,9 @@ git add/
 git add.
 git init
 git status
+git add .
+git commit
+git remote add origin https://github.com/matveev11801Lr/matveev11801Lr.github.io.git
+git push -u origin main
+git init
+git status
